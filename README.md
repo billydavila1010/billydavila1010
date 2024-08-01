@@ -4,8 +4,7 @@
 
 ## 💼 About Me
 
-I’m a Software Engineer at [PayPal](https://www.paypal.com), specializing in designing, developing, and testing automation workflows and software products. A significant part of my role involves working as a Salesforce Developer, a skill I’ve honed as a proud member of the Salesforce Trailblazer community. 
-This experience has empowered me to leverage the Salesforce platform to build custom solutions that enhance our business processes and improve customer relationships.
+I’m a Software Engineer at [PayPal](https://www.paypal.com), specializing in designing, developing, and testing automation workflows and software products. A significant part of my role involves working as a Salesforce Developer.
 
 ## 🌐 Connect with Me
 
