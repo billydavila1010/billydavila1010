@@ -74,11 +74,11 @@ _Bachelor of Science, Computer Science_
 
 ## 📊 GitHub Stats
 
-![Billy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BillyDavila&show_icons=true&theme=default&count_private=true)
+![Billy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=billydavila1010&show_icons=true&theme=default&count_private=true)
 
 ## 📈 Contributions & Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BillyDavila&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=billydavila1010&layout=compact)
 
 
 
