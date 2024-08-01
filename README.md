@@ -14,7 +14,7 @@ I’m a Software Engineer at [PayPal](https://www.paypal.com), specializing in d
 
 ## 🛠 Technical Experience
 
-- **Software Engineer** at ![PayPal](https://img.shields.io/badge/PayPal-00457C?style=flat&logo=paypal&logoColor=white)  _(June 2023 - Present)_
+- **Software Engineer** at ![PayPal](https://img.shields.io/badge/PayPal-00457C?style=flat&logo=paypal&logoColor=white)  _(June 2022 - Present)_
   - Optimized PayPal’s Salesforce Tool, SPARK, by contributing 100+ feature enhancements and bug fixes where I
  employed my expertise in Salesforce Development, leading to a 30% reduction in customer service response
  times and improving the management of over 50 million customer contacts annually.
