@@ -25,10 +25,6 @@ I’m a Software Engineer at [PayPal](https://www.paypal.com), specializing in d
  which resulted in significant operational cost savings of approximately $566,832.72 and saved 780 hours of
  monotonous tasks, utilizing my expertise in RPA tools and process automation knowledge
 
-## 📊 GitHub Stats
-
-![Billy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BillyDavila&show_icons=true&theme=default&count_private=true)
-
 ## 🚀 Technical Skills
 
 ### Programming Languages:
@@ -75,6 +71,10 @@ _Master’s in Artificial Intelligence_
 **🎓 The City College of New York**, The Grove School of Engineering  
 _Bachelor of Science, Computer Science_  
 📅 **Graduated May 2023** 
+
+## 📊 GitHub Stats
+
+![Billy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BillyDavila&show_icons=true&theme=default&count_private=true)
 
 ## 📈 Contributions & Stats
 
