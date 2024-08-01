@@ -8,8 +8,8 @@ I’m a Software Engineer at [PayPal](https://www.paypal.com), specializing in d
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/your-github-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bdav7)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/billydavila1010)
 [![Personal Website](https://img.shields.io/badge/Website-green?style=flat&logo=google-chrome&logoColor=white)](https://your-personal-website.com)
 
 ## 🛠 Technical Experience
